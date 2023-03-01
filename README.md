@@ -1,4 +1,6 @@
 # Medical Image Segmentation
+#### Project is in progress...
+
 <em>Segmentation model on Chest CT Scans with COVID-19</em>
 
 This dataset contains anonymised human lung computed tomography (CT) scans with COVID-19 related findings, as well as
