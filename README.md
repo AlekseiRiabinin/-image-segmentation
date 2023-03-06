@@ -1,5 +1,4 @@
 # Medical Image Segmentation
-#### Project is in progress...
 
 <em>Segmentation model on Chest CT Scans with COVID-19</em>
 
